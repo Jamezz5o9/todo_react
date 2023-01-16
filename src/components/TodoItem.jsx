@@ -40,4 +40,4 @@ const Todo = ({todo, onTodoRemoval, onTodoToggle}) => {
   )
 }
 
-export default TodoItem
+export default Todo
